@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp"
+            android:text="5 pasos para ir a la playa"
+            android:textSize="25sp"
+            android:textAllCaps="true"
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/beach"
+            android:id="@+id/img"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="22dp"
+            android:layout_marginRight="25dp"
+            android:padding="5dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="20sp"
+            android:text="@string/textInicio"
+            android:id="@+id/textInformation"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Atras"
+                android:id="@+id/backButton"
+                android:onClick="backStep"/>
+            <!--<Button
+                android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+                android:text="Compartir"/>-->
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Siguiente"
+                android:id="@+id/nextButton"
+                android:onClick="nextStep"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">thewhatfive</string>
+    <string name="textInicio">Para prevenir a la gente de posibles incidencias realizadas a lo largo
+        de su estadía en la playa , esta aplicación procura que se muestran consejos para ir a la
+        playa , que se deberían de tener en cuenta.
+    </string>
+    <string name="tPaso1">Paso 1 : La preparación para la playa</string>
+    <string name="paso1">
+        Tenemos que coger lo necesario , un traje de baño , una toalla y las chanclas ,
+        bronceador del factor que queramos o en su defecto ir sin el.\n\t
+        Todo esto dependerá de nuestra predisposición a ponernos al sol.\n
+    </string>
+    <string name="tPaso2">Paso 2 : La preparación para el agua</string>
+    <string name="paso2">
+        Tenemos que tener hecha la digestión , entre 1 hora y media y 2 horas y ponernos en un sitio
+        comodos .\n\t
+        Impotante : No ponernos en la arena que está mojada , porque nos mojaremos sin querer mojarnos
+    </string>
+
+
+    <string name="txtAzul">Son playas premiadas por cumplor normas de buena calidad del agua ,
+        seguridad y prestaciones</string>
+    <string name="txtVerde">Son playas en las que se puede uno bañar.</string>
+    <string name="txtAmarillo">Señala que hay incidencias en la playa , se permite el baño
+    pero con limitaciones y con precaución.</string>
+    <string name="txtRoja">Prohibido el baño por consiguiente no podemos bañarnos.</string>
+
+    <string name="tPaso3">Paso 3 : Las precauciones</string>
+    <string name="paso3">
+        Tenemos que hacer caso de las banderas que nos señalen el estado del mar.\n\n\t
+
+        Hay que tener conocimiento si en las playas a las que acudimos puede haber algún animal
+        en el agua como fanecas , medusas u otros tipo de animales marinos.
+
+
+
+    </string>
+    <string name="informacion">
+        Verifique el estado de si existe una bandera de las señaladas.
+    </string>
+    <string name="paso3b">
+        Nos encontramos que esta playa no está con cobertinra asistencial sanitaria.\n\t
+        Por consiguiente no estarán Socorristas y su baño no estará vigilado.
+    </string>
+
+    <string name="tPaso4">Paso 4 : La diversión</string>
+    <string name="paso4">
+        Ponernos en un sitio cómodos en la playa , donde podamos disfrutar del buen tiempo
+        del agua y de todo lo que nos puede aportar el ir a la playa.
+    </string>
+    <string name="tPaso5">Paso 5 : El agua</string>
+    <string name="paso5">
+        Bañarnos poco a poco , mojándonos comenzando por las extremidades , la nuca y finalizamos
+        bañandonos de forma completa.
+    </string>
+</resources>
